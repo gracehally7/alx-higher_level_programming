@@ -1,4 +1,4 @@
-#!/usr/bin/puthon3
+#!/usr/bin/python3
 
 if __name = "__main__":
   from calculator_1 import add, sub, mul, div
